@@ -5,7 +5,7 @@
 ## 🔧 Projects for Portfolio
 
 ### 📝 Ticketing System
-- **Ticketing System** *(inspired by a Tiktoker's tutorial)*
+- **Ticketing System** 
 
 ### 🗂️ Active Directory
 - Adding Users to Active Directory
