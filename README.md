@@ -1,48 +1,71 @@
-Hi there 👋
+# Hi, I'm Adam, an **IT & Cybersecurity Professional** 💻🛡️
 
-💼 Projects for Portfolio
-📌 Section 1: Ticketing System
-Ticketing System (inspired by TikToker)
+---
 
-🔐 Section 2: Active Directory
-Adding Users to Active Directory
+## 🔧 Projects for Portfolio
 
-Active Directory Certificate Services
+### 📝 Ticketing System
+- **Ticketing System** *(inspired by a Tiktoker's tutorial)*
 
-🤖 Section 3: Automation via Jenkins & Ansible
-CI/CD Pipeline using Jenkins
+### 🗂️ Active Directory
+- Adding Users to Active Directory
+- Active Directory Certificate Services
 
-Ansible for Configuration Management
+### ⚙️ Automation with Jenkins & Ansible
+- CI/CD Pipeline (Jenkins)
+- Configuration Management using Ansible
 
-🧾 Section 4: Business Continuity IT Audit
-IT Audit Project
+### 📋 Business Continuity & IT Audit
+- Internal IT Audit & Risk Analysis
 
-🛡️ Section 5: Cyber Security (Web Security)
-SQL Injection on OWASP Juice Shop
+### 🔐 Cybersecurity Projects (Web Security)
+- SQL Injection Testing on OWASP Juice Shop
+- AI Model to Detect Phishing Attempts
+- Brute Force & Dictionary Attacks (Mutillidae demo)
 
-AI to Detect Phishing Attempts
+---
 
-Brute Force & Dictionary Attacks
+## 🧪 Lab Work
 
-🧪 Lab Work
-🐧 Section 1: Linux
-Linux Lab Exercises
+### 🐧 Linux Labs
+- Basic and Intermediate Linux CLI Practice
 
-🪟 Section 2: Windows PowerShell
-Windows Automation Labs
+### 🪟 Windows PowerShell
+- Windows Scripting and Automation Labs
 
-🌐 Networking
-📡 Section 1: Packet Tracer + Labs
-Cisco Packet Tracer Configs
+---
 
-CCNA Labs
+## 🌐 Networking Practice
 
-🎓 Certifications
-✅ CompTIA Network+
+- Cisco Packet Tracer Configurations
+- CCNA Prep Labs
 
-✅ CompTIA Security+
+---
 
-⏳ CCNA (Expected August 2025)
+## 📜 Certifications
 
-⏳ Microsoft Azure (Expected September 2025)
+- ✅ CompTIA Network+
+- ✅ CompTIA Security+
+- ⏳ CCNA *(Expected August 2025)*
+- ⏳ Microsoft Azure *(Expected September 2025)*
+
+---
+
+## 📚 Currently Studying
+
+- TryHackMe: Blue Team & SOC Labs
+- Microsoft 365 Security & Admin
+- Azure Fundamentals
+- Python for Offensive Security (self-study)
+
+---
+
+## 👋 Thank You for Visiting My Page!
+
+I'm actively building my skills in IT support, cybersecurity, and DevOps.  
+Let’s connect or collaborate! I’d love to hear about your projects or offer help.
+
+### [Let’s Chat on LinkedIn](https://linkedin.com/in/adamgmz)  
+
+---
 
