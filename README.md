@@ -1,4 +1,4 @@
-# Hi, I'm Adam, an **IT & Cybersecurity Professional** 💻🛡️
+# Hi, I'm Adam, an **Aspiring IT & Cybersecurity Professional** 
 
 ---
 
