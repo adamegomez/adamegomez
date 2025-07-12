@@ -13,7 +13,7 @@
 
 ### ⚙️ Automation with Jenkins & Ansible
 - CI/CD Pipeline (Jenkins)
-- Configuration Management using Ansible
+- [Configuration Management using Ansible](https://github.com/adamegomez/Ansible-Use-Cases/tree/main)
 
 ### 📋 Business Continuity & IT Audit
 - Internal IT Audit & Risk Analysis
