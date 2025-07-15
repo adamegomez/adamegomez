@@ -19,7 +19,7 @@
 - Internal IT Audit & Risk Analysis
 
 ### 🔐 Cybersecurity Projects (Web Security)
-- SQL Injection Testing on OWASP Juice Shop
+- [SQL Injection Testing on OWASP Juice Shop - Zaproxy](https://github.com/adamegomez/SQL-Injection-Testing-on-OWASP-Juice-Shop)
 - AI Model to Detect Phishing Attempts
 - Brute Force & Dictionary Attacks (Mutillidae demo)
 
