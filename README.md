@@ -16,7 +16,7 @@
 - [Configuration Management using Ansible](https://github.com/adamegomez/Ansible-Use-Cases/tree/main)
 
 ### 📋 Business Continuity & IT Audit
-- Internal IT Audit & Risk Analysis
+- [Internal IT Audit & Risk Analysis](https://github.com/adamegomez/T-Business-Continuity-Recovery-Audit/blob/main/README.md)
 
 ### 🔐 Cybersecurity Projects (Web Security)
 - [SQL Injection Testing on OWASP Juice Shop - Zaproxy](https://github.com/adamegomez/SQL-Injection-Testing-on-OWASP-Juice-Shop)
