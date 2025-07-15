@@ -20,7 +20,7 @@
 
 ### 🔐 Cybersecurity Projects (Web Security)
 - [SQL Injection Testing on OWASP Juice Shop - Zaproxy](https://github.com/adamegomez/SQL-Injection-Testing-on-OWASP-Juice-Shop)
-- AI Model to Detect Phishing Attempts
+- [AI Model to Detect Phishing Attempts](https://github.com/adamegomez/AI-Powered-Phishing-Email-Detection)
 - Brute Force & Dictionary Attacks (Mutillidae demo)
 
 ---
