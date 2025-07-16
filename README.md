@@ -44,7 +44,7 @@
 
 ## 📜 Certifications
 
-- ✅ CompTIA Network+
+- [✅ CompTIA Network+](https://github.com/adamegomez/Comptia-Network-/blob/main/Network%2B%20Cert.pdf)
 - ✅ CompTIA Security+
 - ⏳ CCNA *(Expected August 2025)*
 - ⏳ Microsoft Azure *(Expected September 2025)*
