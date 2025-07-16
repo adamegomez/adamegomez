@@ -12,7 +12,7 @@
 - [Active Directory Certificate Services](https://github.com/adamegomez/Active-Directory-Cert-Service)
 
 ### ⚙️ Automation with Jenkins & Ansible
-- CI/CD Pipeline (Jenkins)
+- [CI/CD Pipeline (Jenkins)](https://github.com/adamegomez/CICD-Pipeline-Jenkins)
 - [Configuration Management using Ansible](https://github.com/adamegomez/Ansible-Use-Cases/tree/main)
 
 ### 📋 Business Continuity & IT Audit
