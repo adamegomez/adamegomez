@@ -65,7 +65,7 @@
 I'm actively building my skills in IT support, cybersecurity, and DevOps.  
 Let’s connect or collaborate! I’d love to hear about your projects or offer help.
 
-### [Let’s Chat on LinkedIn](https:www.linkedin.com/in/adam-gomez-3619a1243)  
+### [Let’s Chat on LinkedIn](https://www.linkedin.com/in/adam-gomez-3619a1243/)  
 
 ---
 
